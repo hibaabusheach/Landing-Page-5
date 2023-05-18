@@ -93,7 +93,7 @@ form .fields .input-field {
 
 /* ======== Media's ======== */
 /* X-Small device (portrait phones, less than 576px) */
-@media screen and (min-width: 340px) and (max-width: 576px) {
+@media screen and (max-width: 576px) {
     img { height: 45vh; }
 
     h1 { font-size: 1.9em; }
